@@ -5,7 +5,7 @@ University of Illinois at Urbana-Champaign
 
 CVPR 2024
 
-Paper link coming soon │ [Project Page](https://ajzhai.github.io/NeRF2Physics/)
+[Paper](https://arxiv.org/abs/2404.04242) │ [Project Page](https://ajzhai.github.io/NeRF2Physics/)
 
 
 **Infer physical properties densely in 3D for any object!**<br/>
