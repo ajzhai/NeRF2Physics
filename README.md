@@ -98,6 +98,8 @@ python visualization.py --scene_name B075YQXRBS_ATVPDKIKX0DER
 ## Using Custom Data
 To run our method on your own data, you can use [Nerfstudio's data processing tool](https://docs.nerf.studio/quickstart/custom_dataset.html) to convert your data into the right format. You can then run the components of our method in order.
 
+## Friction and Hardness Dataset
+We collected a dataset containing multi-view images of 13 scenes and paired measurements of per-point kinetic friction coefficient and Shore hardness. The data can be found at [this Box link](https://uofi.box.com/shared/static/2z6wk2fpkqdg6jg5o8ebii7m94ax5ufa.zip).
 
 ## Citation
 Please cite our paper if you find this repo useful!
